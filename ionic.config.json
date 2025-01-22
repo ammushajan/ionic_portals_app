@@ -1,7 +1,7 @@
 {
-  "name": "ionic_portals_poc",
+  "name": "ionic_portals_app",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular-standalone"
+  "type": "angular"
 }
